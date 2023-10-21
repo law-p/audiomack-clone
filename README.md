@@ -1,2 +1,6 @@
 # audiomack-clone
-A simple audiomack clone where: Users are to create an account or login,  Users are to upload their music and cover art, Only members of the platform can upload.,  On the homepage, all uploaded music is displayed with the cover art.
+Repository featuring a basic Audiomack clone with the following functionalities:
+User authentication (create account / login authentication)
+Exclusive uploading privileges for registered users
+Ability to upload music tracks along with cover art
+Homepage showcasing all uploaded music with corresponding cover art.
